@@ -78,16 +78,6 @@ This repository includes three detailed video demonstrations:
 
 ---
 
-## Requirements
-
-To replicate or run the notebooks:
-- Python 3.x
-- Jupyter Notebook or Google Colab
-- Libraries:  
-  - `timegpt`, `tabula`, `relbench`, `pandas`, `numpy`, `matplotlib`, and more (specific to each notebook).
-
----
-
 ## Acknowledgements
 
 - [Nixtla](https://nixtla.github.io/)  
