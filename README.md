@@ -6,9 +6,9 @@
 
 Below are the video tutorials explaining the implementation and execution of each Colab notebook:
 
-1. **[TimeGPT Video Tutorial](https://youtu.be/timegpt-video-link)**  
-2. **[Tabular Video Tutorial](https://youtu.be/tabular-video-link)**  
-3. **[RDL and RelBench Video Tutorial](https://youtu.be/rdl-relbench-video-link)**  
+1. **[TimeGPT Video Walkthrough](https://youtu.be/q3uBGbFRMDo)**  
+2. **[Tabular Video Walkthrough](https://youtu.be/q3uBGbFRMDo)**  
+3. **[RDL and RelBench Video Walkthrough](https://youtu.be/q3uBGbFRMDo)**  
 
 ---
 
